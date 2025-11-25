@@ -1,4 +1,5 @@
 # Adventure_Works_PowerBi_Dashboard
+“Created a comprehensive Excel analytics project with multiple charts and tables to understand the dataset. The process included data cleaning, modeling, and visualization to convert raw data into meaningful insights.”
 
 # 📊 Adventure Works Sales Analysis
 
