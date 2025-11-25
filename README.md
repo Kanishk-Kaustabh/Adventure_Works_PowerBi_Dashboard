@@ -1,1 +1,74 @@
 # Adventure_Works_PowerBi_Dashboard
+
+# 📊 Adventure Works Sales Analysis
+
+## 📁 **Project Overview**
+
+This project focuses on analyzing Adventure Works sales data to understand yearly trends, monthly patterns, product performance, and regional insights. Using multiple dashboards, charts, and tables, the goal is to convert raw data into clear, actionable business insights.
+
+## 🔧 **Tools Used**
+
+* **Power BI** (Interactive Dashboards, DAX Measures, Data Modeling)
+  
+
+## 🛠 **Steps Performed**
+
+### **1️⃣ Data Cleaning (Power Query)**
+
+* Removed duplicates
+* Handled missing values
+* Standardized date formats
+* Structured fields for analysis
+
+### **2️⃣ Data Modeling**
+
+* Created relationships between tables
+* Built calendar/date table
+* Designed model for Power BI
+
+### **3️⃣ Data Visualization**
+
+* Created year-wise and month-wise sales charts
+* Region & country performance dashboards
+* Product category comparison
+* KPI cards for total sales, total orders, and profit
+
+ Dashboard Interaction <a href="">View Dashboard</a>
+
+
+## 📈 **Key Insights**
+
+* Steady **year-on-year sales growth** observed.
+* Clearly visible **monthly sales patterns** and seasonal trends.
+* **Region-wise sales** showed strong performance in certain markets.
+* Product-wise analysis highlighted top-selling categories.
+* Customer behavior and order patterns helped identify growth opportunities.
+
+---
+
+## 📌 **Final Conclusion**
+
+This project provides a complete view of Adventure Works’ sales performance. Through effective cleaning, modeling, and visualization, the analysis highlights growth trends, regional performance, and product-level insights. Overall, the project demonstrates how raw data can be transformed into meaningful business decisions using Excel and Power BI.
+
+---
+
+## 📂 **Project Files**
+
+* **Excel File:** `/mnt/data/EXCEL_ADEVNTURE_WORKS.xlsx`
+* **Power BI File:** `/mnt/data/POWERBI_ADVENTURE_WORKS.pbix`
+
+---
+
+## 👤 **Author**
+
+**Kanishk Kaustabh**
+**Business Analyst | Data Analytics Enthusiast**
+
+---
+
+If you want, I can also create:
+✅ A shorter README
+✅ A more stylish README with emojis & badges
+✅ A README with images/screenshots placeholders
+
+Just tell me!
