@@ -33,7 +33,7 @@ This project focuses on analyzing Adventure Works sales data to understand yearl
 * Product category comparison
 * KPI cards for total sales, total orders, and profit
 
- Dashboard Interaction <a href="">View Dashboard</a>
+ Dashboard Interaction <a href="https://github.com/Kanishk-Kaustabh/Adventure_Works_PowerBi_Dashboard/blob/main/POWERBI_DASHBOARD.png">View Dashboard</a>
 
 
 ## 📈 **Key Insights**
@@ -44,31 +44,16 @@ This project focuses on analyzing Adventure Works sales data to understand yearl
 * Product-wise analysis highlighted top-selling categories.
 * Customer behavior and order patterns helped identify growth opportunities.
 
----
+## DASHBOARD
+<img width="1124" height="565" alt="POWERBI_DASHBOARD" src="https://github.com/user-attachments/assets/06080365-e59a-44ca-89f7-13b633c0f22f" />
+
+
+
 
 ## 📌 **Final Conclusion**
 
-This project provides a complete view of Adventure Works’ sales performance. Through effective cleaning, modeling, and visualization, the analysis highlights growth trends, regional performance, and product-level insights. Overall, the project demonstrates how raw data can be transformed into meaningful business decisions using Excel and Power BI.
+This project provides a complete view of Adventure Works’ sales performance. Through effective cleaning, modeling, and visualization, the analysis highlights growth trends, regional performance, and product-level insights. Overall, the project demonstrates how raw data can be transformed into meaningful business decisions using  Power BI.
 
----
 
-## 📂 **Project Files**
 
-* **Excel File:** `/mnt/data/EXCEL_ADEVNTURE_WORKS.xlsx`
-* **Power BI File:** `/mnt/data/POWERBI_ADVENTURE_WORKS.pbix`
 
----
-
-## 👤 **Author**
-
-**Kanishk Kaustabh**
-**Business Analyst | Data Analytics Enthusiast**
-
----
-
-If you want, I can also create:
-✅ A shorter README
-✅ A more stylish README with emojis & badges
-✅ A README with images/screenshots placeholders
-
-Just tell me!
